@@ -1,0 +1,28 @@
+{
+  "reasoning": [
+    {"id": "erste-prinzipien", "name": "Erste Prinzipien", "text": "Zerlege die Aufgabe bis auf ihre Grundannahmen und baue die Lösung von dort neu auf."},
+    {"id": "umkehrung", "name": "Umkehrung", "text": "Überlege zuerst, was die Aufgabe garantiert scheitern lässt, und vermeide genau das."},
+    {"id": "analogie", "name": "Analogie", "text": "Suche ein ähnliches, bereits gelöstes Problem und übertrage dessen Lösung auf diese Aufgabe."},
+    {"id": "widerspruch", "name": "Widerspruch", "text": "Nimm die naheliegende Lösung als Gegner. Finde die beste Gegenposition und prüfe, ob sie gewinnt."},
+    {"id": "randfaelle", "name": "Randfälle zuerst", "text": "Sammle zuerst die schwierigsten Sonderfälle und baue die Lösung so, dass sie diese übersteht."},
+    {"id": "systemdenken", "name": "Systemdenken", "text": "Betrachte alle Beteiligten und Abhängigkeiten. Löse die Aufgabe so, dass sie im Zusammenhang funktioniert."},
+    {"id": "beispiel-zuerst", "name": "Beispiel zuerst", "text": "Arbeite zuerst ein konkretes Beispiel komplett durch und verallgemeinere erst danach."},
+    {"id": "sokratisch", "name": "Sokratisch", "text": "Stelle dir die fünf wichtigsten Fragen zur Aufgabe, beantworte sie ehrlich und leite die Lösung daraus ab."}
+  ],
+  "workflow": [
+    {"id": "entwurf-kritik", "name": "Entwurf, Kritik, Neufassung", "text": "Schreibe einen Entwurf, kritisiere ihn hart, schreibe ihn dann neu."},
+    {"id": "gliederung", "name": "Gliederung zuerst", "text": "Lege zuerst die Gliederung fest und fülle sie erst danach aus."},
+    {"id": "pruefkriterien", "name": "Prüfkriterien zuerst", "text": "Schreibe zuerst fünf Kriterien, an denen man eine gute Lösung erkennt, und löse dann die Aufgabe so, dass sie alle erfüllt."},
+    {"id": "sammeln-verdichten", "name": "Sammeln, dann verdichten", "text": "Sammle viele Ideen ohne Filter und verdichte sie danach auf das Beste."},
+    {"id": "drei-entwuerfe", "name": "Drei Entwürfe", "text": "Schreibe drei grundverschiedene Entwürfe und gib den besten ab, mit einem Satz Begründung."},
+    {"id": "rueckwaerts", "name": "Rückwärts vom Ergebnis", "text": "Beschreibe zuerst das ideale Ergebnis und arbeite dich Schritt für Schritt zurück zur Lösung."}
+  ],
+  "strategy": [
+    {"id": "einfachstes", "name": "Das Einfachste, das funktioniert", "text": "Wähle die schlichteste Lösung, die alle Anforderungen erfüllt."},
+    {"id": "gruendlich", "name": "Maximale Gründlichkeit", "text": "Gehe jeden Punkt tief durch und lasse nichts offen, was die Aufgabe verlangt."},
+    {"id": "nutzer-zuerst", "name": "Nutzer zuerst", "text": "Stelle dir die Person vor, die die Lösung benutzt, und optimiere alles für ihren Alltag."},
+    {"id": "kurz", "name": "Kurz und scharf", "text": "Liefere die kürzeste Lösung, die vollständig und genau bleibt."},
+    {"id": "risiko", "name": "Risiko minimieren", "text": "Wähle die Lösung, bei der am wenigsten schiefgehen kann, und benenne das Restrisiko."},
+    {"id": "ueberraschend", "name": "Überraschend, aber richtig", "text": "Suche den unerwarteten Weg, der trotzdem alle Anforderungen erfüllt."}
+  ]
+}

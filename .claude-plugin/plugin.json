@@ -1,0 +1,14 @@
+{
+  "name": "arena-skill-deutsch",
+  "description": "Der Arena-Skill auf Deutsch: Viele Versionen von Claude kämpfen im K.-o.-Turnier um deine Antwort. Kostenlos, MIT.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Willi Neubauer",
+    "url": "https://willineubauer.com"
+  },
+  "homepage": "https://github.com/neubauerwilli/arena-skill-deutsch",
+  "repository": "https://github.com/neubauerwilli/arena-skill-deutsch",
+  "license": "MIT",
+  "keywords": ["claude-code", "claude-skills", "deutsch", "arena", "sub-agents", "turnier"],
+  "skills": "./skills"
+}

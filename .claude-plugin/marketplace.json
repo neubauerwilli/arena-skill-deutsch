@@ -1,0 +1,18 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "arena-skill-deutsch",
+  "description": "Der Arena-Skill auf Deutsch für Claude",
+  "owner": {
+    "name": "Willi Neubauer",
+    "url": "https://willineubauer.com"
+  },
+  "plugins": [
+    {
+      "name": "arena-skill-deutsch",
+      "description": "Viele Versionen von Claude kämpfen im K.-o.-Turnier um deine Antwort. Ein Skill, kostenlos.",
+      "source": "./",
+      "category": "productivity",
+      "homepage": "https://github.com/neubauerwilli/arena-skill-deutsch"
+    }
+  ]
+}
